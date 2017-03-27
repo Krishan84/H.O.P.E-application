@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "362250891407",
+    "firebase_url": "https://hopefirebaseregistrationapp.firebaseio.com",
+    "project_id": "hopefirebaseregistrationapp",
+    "storage_bucket": "hopefirebaseregistrationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362250891407:android:41ed5e42860e7029",
+        "android_client_info": {
+          "package_name": "com.bsaitm.krishanpal.hope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362250891407-mj0s6u9mukens0aac67h8bosgbargtos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5ikIx7t8z4It4sT6w0PIPM6fWQ3RIEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
